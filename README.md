@@ -10,4 +10,4 @@ You can change the name if required or you can also keep the default name. Click
 
 Then in next you have to select a Blueprint.
 Select Empty function for this example and click Finish.
-So in this way we ahve created simple AWS Lambda Project.
+So in this way we have created simple AWS Lambda Project.
